@@ -8,13 +8,13 @@
   "theme_color": "#090d16",
   "icons": [
     {
-      "src": "https://i.ibb.co/vXw3VbS/baatain-icon-192.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://i.ibb.co/1ZfX7Yj/baatain-icon-512.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
       "sizes": "512x512",
       "type": "image/png"
     }
