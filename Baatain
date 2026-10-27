@@ -1,0 +1,22 @@
+{
+  "name": "Baatain Messenger",
+  "short_name": "Baatain",
+  "description": "Ultimate Next-Gen Luxury Cyber Messenger with HD Calls and Cloud Vault",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/vXw3VbS/baatain-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/1ZfX7Yj/baatain-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
